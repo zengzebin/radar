@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="internet-admin"
+  id="myeclipse.1387983633810"
+  context-root="/internet-admin"
+  j2ee-spec="6.0"
+  archive="internet-admin.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
